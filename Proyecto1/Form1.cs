@@ -215,7 +215,7 @@ namespace Proyecto1
         {
             //txtPersonID.Clear();
             //txtLastName.Clear();
-            //txtFirstName.Clear();
+            txtFirstName.Clear();
         }
     }
     }
