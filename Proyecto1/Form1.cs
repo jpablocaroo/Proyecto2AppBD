@@ -213,9 +213,9 @@ namespace Proyecto1
 
         private void btnLimpiar_Click(object sender, EventArgs e)
         {
-            txtPersonID.Clear();
-            txtLastName.Clear();
-            txtFirstName.Clear();
+            //txtPersonID.Clear();
+            //txtLastName.Clear();
+            //txtFirstName.Clear();
         }
     }
     }
